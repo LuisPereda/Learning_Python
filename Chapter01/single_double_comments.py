@@ -1,10 +1,12 @@
-#This is a single line comment in Python
+#This program shows how comments work on python
 
-print "Hello World" #This is a single comment in Python
+print ("Hello World") #This is a single comment in Python
+
+#Multiline comments
 
 """ For multi-line 
-comment use three 
-double quotes
-...
+    comment
+    use three double quotes...
 """
-print "Hello World!"
+
+print ("Hello World!")
