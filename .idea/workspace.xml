@@ -16,7 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9bc6209-fa58-4c94-8fd6-aa3e581576d1" name="Default Changelist" comment="" />
+    <list default="true" id="e9bc6209-fa58-4c94-8fd6-aa3e581576d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -384,7 +387,7 @@
       <workItem from="1599098484970" duration="3524000" />
       <workItem from="1599102450365" duration="3843000" />
       <workItem from="1599261957266" duration="3092000" />
-      <workItem from="1599266176495" duration="1517000" />
+      <workItem from="1599266176495" duration="2133000" />
     </task>
     <servers />
   </component>
@@ -420,10 +423,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="738" y="5" width="1092" height="1075" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599263990451" />
-    <state x="238" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599267315993">
+    <state x="238" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599268306398">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="238" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599267315993" />
+    <state x="238" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599268306398" />
     <state x="368" y="93" key="DiffContextDialog" timestamp="1599101725427">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
